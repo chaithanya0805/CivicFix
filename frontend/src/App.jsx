@@ -12,7 +12,7 @@ import Signup from './pages/Signup';
 // Citizen Pages
 import CitizenDashboard from './pages/CitizenDashboard';
 import ReportIssue from './pages/ReportIssue';
-import MyComplaints from './pages/MyComplaints';
+import MyComplaint from './pages/MyComplaints';
 import ComplaintDetails from './pages/ComplaintDetails';
 import CitizenMapView from './pages/CitizenMapView';
 import Profile from './pages/Profile';
